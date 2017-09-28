@@ -1,4 +1,4 @@
-/* FX-uppgift PROG2
+/*PROG2
  * 
  * Elev: Cedric Fridgren
  * 
