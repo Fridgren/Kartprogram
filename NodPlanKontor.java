@@ -12,7 +12,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 
-// Nod klassen 1
+// Nod klassen 
 public class NodPlanKontor extends JFrame {
 
 	JButton angeKnapp, visaKnapp;
